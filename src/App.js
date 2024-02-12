@@ -73,6 +73,7 @@ const AccountPage = ({ user, updateUser }) => {
   );
 };
 
+
 // Main Component for the home page
 const App = () => {
   const [cart, setCart] = useState([]);
