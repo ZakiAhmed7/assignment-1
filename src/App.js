@@ -35,7 +35,7 @@ const Product = ({ product, onAddToCart }) => {
     </div>
   );
 };
-// Functional Component for Shooping Cart page
+// Functional Component for Shopping Cart page
 const CartPage = ({ cart, removeFromCart, checkout }) => (
   <div>
     <h2>Shopping Cart</h2>
